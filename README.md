@@ -1,10 +1,17 @@
 ## 📊 Electronic Retail Performance Dashboard - Project Summary
-### 🎯 Objective
+### 🎯 Objectives
 * *Conducted end-to-end analysis of 1,036 transactions covering ₹17.86M revenue and 7,679 units sold.*
 * *Evaluated seller contribution, revenue trends, and quantity movement across products.*
 * *Implemented rolling 28-day comparison to enable strategic, KPI-driven decision-making.*
 ### 🛠 Tools & Methods Used
 ➩  Advanced Excel | Pivot Tables | Pivot charts
+
+## Excel Dashboard
+<p align="center">
+  <img src="Dashboard_ss.jpeg" width="1100" height="500"/>
+</p>
+
+
 ### 📦 Product Performance Analysis
 →  *SSD 256GB leads with ₹4.38M (~24.5%), while top 5 products contribute over 65% of total revenue*.  
 →  *Storage devices (SSD + HDD) dominate category sales, reflecting strong electronics demand.*   
