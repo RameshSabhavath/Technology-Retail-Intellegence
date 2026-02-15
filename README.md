@@ -41,12 +41,12 @@
 * Average Order Value (AOV): ₹17,237 approx.| Average Selling Price per Unit: ₹2,325 approx.
 
 ### 🏆 Key Achievements
-✓  *Developed interactive KPI dashboard integrating product, seller, and revenue metrics.*     
-✓  *Identified revenue concentration risks and performance disparities.*    
-✓  *Translated transactional data into actionable business intelligence insights*.
+✔   *Developed interactive KPI dashboard integrating product, seller, and revenue metrics.*     
+✔   *Identified revenue concentration risks and performance disparities.*    
+✔   *Translated transactional data into actionable business intelligence insights*.
 
 ### 📌 Outcomes & Business Impact
 
-✓  *Enhanced visibility into revenue distribution and product dominance patterns*.   
-✓  *Enabled seller-level accountability and strategic performance monitoring.*     
-✓  *Supported data-driven inventory planning and seasonal demand forecasting.*
+✔   *Enhanced visibility into revenue distribution and product dominance patterns*.   
+✔   *Enabled seller-level accountability and strategic performance monitoring.*     
+✔   *Supported data-driven inventory planning and seasonal demand forecasting.*
