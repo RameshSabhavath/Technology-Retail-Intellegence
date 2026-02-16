@@ -51,7 +51,7 @@
 ✔   *Enabled seller-level accountability and strategic performance monitoring.*     
 ✔   *Supported data-driven inventory planning and seasonal demand forecasting.*
 
-_______________________________________________________________________Developed by RAMESH SABHAVATH 👨🏼‍💻
+_______________________________________________Developed by RAMESH SABHAVATH 👨🏼‍💻
 
 
 
